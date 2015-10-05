@@ -1,5 +1,5 @@
 
-var kijs_code = "DODI"; var kijs_lib_link = "http://maps.kartes.lv/kijs/v3/"; var kijs_wms_link = "http://wms.kartes.lv/"+ kijs_code +"/wgs/15/"; kijs_is_mobile_device = false;
+var kijs_code = "KWMS"; var kijs_lib_link = "http://maps.kartes.lv/kijs/v3/"; var kijs_wms_link = "http://wms.kartes.lv/"+ kijs_code +"/wgs/15/"; kijs_is_mobile_device = false;
 /*
 
   OpenLayers.js -- OpenLayers Map Viewer Library
